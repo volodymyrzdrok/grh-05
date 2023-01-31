@@ -1,0 +1,17 @@
+.header {
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+.linkMenu {
+  text-decoration: none;
+  font-family: Tahoma, sans-serif;
+  font-weight: 550;
+  color: #232322;
+  letter-spacing: 1px;
+  margin: 20px;
+}
+
+.linkMenuActive {
+  color: rgb(194, 1, 1);
+  margin: 20px;
+}
